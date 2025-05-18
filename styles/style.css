@@ -296,12 +296,12 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::after {
 }
 
 .content__card-link:active {
- background-color: #545050;
+  background-color: #545050;
 }
 
 .content__card-link:hover {
   text-decoration: underline;
-   text-underline-position:under;
+  text-underline-position:under;
   cursor: pointer;
 }
 
